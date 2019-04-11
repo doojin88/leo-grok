@@ -34,6 +34,13 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>io.krakens</groupId>
+			<artifactId>java-grok</artifactId>
+			<version>0.1.9</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
